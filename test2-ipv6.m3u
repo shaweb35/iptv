@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8" tvg-name="https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://CDLIVESTREAM.NEWS.CCTVPLUS.COM/LIVE/SMIL:CHANNEL1.SMIL/PLAYLIST3U8.png" group-title="央视",https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-undefined
-#EXTINF:-1,tvg-id="https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8" tvg-name="https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8" tvg-logo="https://epg.112114.xyz/logo/HTTPS://CDLIVESTREAM.NEWS.CCTVPLUS.COM/LIVE/SMIL:CHANNEL2.SMIL/PLAYLIST3U8.png" group-title="央视",https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-undefined
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 undefined
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
